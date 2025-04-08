@@ -1,2 +1,2 @@
-# aninvitationreturned
-This is a repository of all my analyses for practicum. In "visuals" you will find additional visuals, in "models" more specifics about the modelling results and sensitivity analyses, in "dictionaries" the complete csv's of terms used to create the concept and methods flags, and in "analyses" the replication files for everything.
+# an invitation returned
+This is a repository of all my analyses for practicum. As you will see, it is a work in progress. The data will require filtering and preprocessing to avoid concerns from Scopus. In "models" more specifics about the modelling results and sensitivity analyses, in "dictionaries" the complete csv's of terms used to create the concept and methods flags, and in "source_info" are some key tables documenting descriptives of the results.
