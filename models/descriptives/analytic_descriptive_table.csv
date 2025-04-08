@@ -1,0 +1,27 @@
+Variable,UK,US,Overall
+N,N = 35248,N = 49795,N = 85043
+Cites Bourdieu,4667 (13.2%)*,3453 (6.9%),8120 (9.5%)
+,,,
+Concepts,,,
+      Other Reflexivity,401 (1.1%)*,326 (0.7%),727 (0.9%)
+      Bourdieu Reflexivity,220 (0.6%)*,124 (0.2%),344 (0.4%)
+      Social Capital,484 (1.4%),651 (1.3%),1135 (1.3%)
+      Cultural Capital,390 (1.1%)*,199 (0.4%),589 (0.7%)
+      Field Theory Flag,117 (0.3%)*,74 (0.1%),191 (0.2%)
+      Habitus Flag,426 (1.2%)*,169 (0.3%),595 (0.7%)
+      Other Concepts,410 (1.2%)*,243 (0.5%),653 (0.8%)
+,,,
+Methods,,,
+      Quantitative,5582 (15.8%)*,14137 (28.4%),19719 (23.2%)
+      Qualitative,7510 (21.3%)*,7741 (15.5%),15251 (17.9%)
+      Theory,,,
+      Mixed Methods,2433 (6.9%)*,2872 (5.8%),5305 (6.2%)
+      Literature Review,,,
+      Unclear,14479 (41.1%)*,19293 (38.7%),33772 (39.7%)
+,,,
+Funding,8297 (23.5%),11994 (24.1%),20291 (23.9%)
+WoS Journal Impact Factor,0.94*,1.06,1.01
+Year,2012,2010,2011
+Bourdieu Highest Cited Author,van dijk t.a.,emirbayer m.; mische a.,emirbayer m.; mische a.
+Collaboration Index,2,2.02,2.02
+"Note: * indicates a statistically significant difference (p < 0.05) between UK and US, tested using chi-square tests for categorical variables and Welch’s t-tests for continuous variables. Other Concepts include symbolic power, relational sociology, homology, social space, doxa, and illusio. WoS Journal Impact Factor is provided by Web of Science (a research platform by Clarivate Analytics) and is calculated by dividing the number of citations in a given year by the total number of citable items published in the preceding two years; it was log-transformed in the growth models because it was highly right-skewed. Collaboration Index is calculated as the average number of authors on multi-author papers.",,,

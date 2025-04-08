@@ -1,0 +1,70 @@
+import os
+import pandas as pd
+
+def methods_us_uk_overall(input_parquet="data/final.parquet", output_csv="descriptives/methods_summary.csv"):
+    """
+    Reads a Parquet file containing a 'methods_flag' column and a 'wos_journal_country' column.
+    Produces a table showing the count and percentage of each methods_flag category for:
+      - US
+      - UK
+      - Overall
+    Saves the result as a CSV.
+    """
+
+    # Load the data
+    df = pd.read_parquet(input_parquet)
+
+    # Ensure country codes are uppercase
+    if 'wos_journal_country' in df.columns:
+        df['wos_journal_country'] = df['wos_journal_country'].str.upper()
+
+    # Create country-specific subsets and an overall copy
+    df_uk = df[df['wos_journal_country'] == 'UK']
+    df_us = df[df['wos_journal_country'] == 'US']
+    df_overall = df.copy()
+
+    # Identify all unique methods_flag categories
+    method_categories = df_overall['methods_flag'].dropna().unique().tolist()
+
+    # Prepare a list for results
+    rows = []
+
+    # Function to safely compute counts and percentages
+    def get_count_and_pct(df_group, category):
+        if len(df_group) == 0:
+            return 0, 0.0
+        count_val = (df_group['methods_flag'] == category).sum()
+        pct_val = (count_val / len(df_group)) * 100
+        return count_val, pct_val
+
+    # Loop over each methods category
+    for cat in method_categories:
+        count_uk, pct_uk = get_count_and_pct(df_uk, cat)
+        count_us, pct_us = get_count_and_pct(df_us, cat)
+        count_over, pct_over = get_count_and_pct(df_overall, cat)
+
+        rows.append({
+            'Methods Category': cat,
+            'Count (UK)': count_uk,
+            'Percent (UK)': f"{pct_uk:.1f}",
+            'Count (US)': count_us,
+            'Percent (US)': f"{pct_us:.1f}",
+            'Count (Overall)': count_over,
+            'Percent (Overall)': f"{pct_over:.1f}"
+        })
+
+    # Create a DataFrame from the results
+    df_table = pd.DataFrame(rows)
+
+    # Ensure the output folder exists
+    os.makedirs(os.path.dirname(output_csv), exist_ok=True)
+
+    # Save to CSV
+    df_table.to_csv(output_csv, index=False)
+
+    # Print to console
+    print(df_table)
+
+# Run the script
+if __name__ == "__main__":
+    methods_us_uk_overall()

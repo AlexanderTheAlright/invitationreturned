@@ -1,0 +1,769 @@
+flag_category,keyword
+qualitative,ethnographic
+qualitative,ethnography
+qualitative,ethnographies
+qualitative,participant observation
+qualitative,direct observation
+qualitative,fieldwork
+qualitative,in-depth interviews
+qualitative,semi-structured interviews
+qualitative,open-ended interviews
+qualitative,open-ended surveys
+qualitative,focus groups
+qualitative,group interviews
+qualitative,focus group discussions
+qualitative,key informant interviews
+qualitative,case study
+qualitative,embedded case study
+qualitative,case study research
+qualitative,content analysis
+qualitative,textual analysis
+qualitative,grounded theory
+qualitative,phenomenological research
+qualitative,thematic analysis
+qualitative,narrative analysis
+qualitative,narrative inquiry
+qualitative,narrative research
+qualitative,discourse analysis
+qualitative,critical discourse analysis
+qualitative,autoethnography
+qualitative,critical ethnography
+qualitative,institutional ethnography
+qualitative,ethnomethodology
+qualitative,oral history
+qualitative,life history
+qualitative,action research
+qualitative,participatory action research
+qualitative,visual methods
+qualitative,visual ethnography
+qualitative,netnography
+qualitative,interpretative phenomenological analysis
+qualitative,conversation analysis
+qualitative,contextual analysis
+qualitative,content analyzed
+qualitative,semiotic analysis
+qualitative,qualitative synthesis
+qualitative,review of literature
+qualitative,secondary analysis
+qualitative,historical method
+qualitative,diary studies
+qualitative,interpretive description
+qualitative,qualitative
+qualitative,ethnographic
+qualitative,unstructured interviews
+qualitative,life story interviews
+qualitative,photo elicitation
+qualitative,photovoice
+qualitative,video ethnography
+qualitative,archival research
+qualitative,documentary analysis
+qualitative,hermeneutic analysis
+qualitative,multi-sited ethnography
+qualitative,digital ethnography
+qualitative,virtual ethnography
+qualitative,online ethnography
+qualitative,focused ethnography
+qualitative,rapid ethnographic assessment
+qualitative,cognitive mapping
+qualitative,concept mapping
+qualitative,cultural mapping
+qualitative,community mapping
+qualitative,social mapping
+qualitative,interactive interviews
+qualitative,elicitation techniques
+qualitative,oral narratives
+qualitative,biographical method
+qualitative,biographical interviews
+qualitative,biographical research
+qualitative,phenomenography
+qualitative,critical theory analysis
+qualitative,feminist research methods
+qualitative,standpoint methodology
+qualitative,symbolic interactionism
+qualitative,dramaturgical analysis
+qualitative,frame analysis
+qualitative,microethnography
+qualitative,thick description
+qualitative,theoretical sampling
+qualitative,purposive sampling
+qualitative,snowball sampling
+qualitative,convenience sampling
+qualitative,maximum variation sampling
+qualitative,deviant case analysis
+qualitative,constant comparative method
+qualitative,memoing
+qualitative,field notes
+qualitative,research diaries
+qualitative,reflective journals
+qualitative,protocol analysis
+qualitative,vignette analysis
+qualitative,template analysis
+qualitative,framework analysis
+qualitative,situational analysis
+qualitative,qualitative comparative analysis
+qualitative,critical incident technique
+qualitative,documentary method
+qualitative,appreciative inquiry
+qualitative,collaborative inquiry
+qualitative,cooperative inquiry
+qualitative,community-based participatory research
+qualitative,participatory rural appraisal
+qualitative,rapid rural appraisal
+qualitative,indigenous methodology
+qualitative,decolonizing methodology
+qualitative,storytelling
+qualitative,narrative interviews
+qualitative,oral testimonies
+qualitative,life course analysis
+qualitative,generational analysis
+qualitative,genealogical method
+qualitative,cross-case analysis
+qualitative,within-case analysis
+qualitative,process tracing
+qualitative,historical sociology
+qualitative,genealogical ethnography
+qualitative,extended case method
+qualitative,multi-method qualitative research
+qualitative,sensory ethnography
+qualitative,walking interviews
+qualitative,go-along interviews
+qualitative,mobile methods
+qualitative,visual sociology
+qualitative,photo documentation
+qualitative,material culture analysis
+qualitative,artifact analysis
+qualitative,repertory grid technique
+qualitative,q methodology
+qualitative,projective techniques
+qualitative,expert interviews
+qualitative,problem-centered interviews
+qualitative,episodic interviews
+qualitative,laddering interviews
+qualitative,consensus methods
+qualitative,delphi method
+qualitative,nominal group technique
+qualitative,open coding
+qualitative,axial coding
+qualitative,selective coding
+qualitative,in vivo coding
+qualitative,metaphorical analysis
+qualitative,linguistic analysis
+qualitative,rhetorical analysis
+qualitative,phenomenological reduction
+qualitative,causal mapping
+qualitative,temporal analysis
+qualitative,longitudinal qualitative research
+qualitative,qualitative panel studies
+qualitative,memory work
+qualitative,collective biography
+qualitative,emic perspective
+qualitative,ethnographic interviewing
+qualitative,folk taxonomy
+qualitative,domain analysis
+qualitative,componential analysis
+qualitative,dimensional analysis
+qualitative,conjoint analysis
+qualitative,narrative configuration
+qualitative,oral tradition
+qualitative,crystallization
+qualitative,triangulation
+qualitative,member checking
+qualitative,peer debriefing
+qualitative,audit trail
+qualitative,qualitative content analysis
+qualitative,realist ethnography
+qualitative,confessional ethnography
+qualitative,impressionist ethnography
+qualitative,dramatistic analysis
+qualitative,textual ethnography
+qualitative,ethnodrama
+qualitative,performative ethnography
+qualitative,arts-based inquiry
+qualitative,poetic inquiry
+qualitative,narrative portraiture
+qualitative,ethnographic fiction
+qualitative,narrative performance
+qualitative,microanalysis
+qualitative,interactional analysis
+qualitative,sequential analysis
+qualitative,interpretative analysis
+qualitative,multimodal analysis
+qualitative,intersectional analysis
+quantitative,community-based sample
+quantiitative,community based sample
+quantitative,randomized control trial
+quantitative,quasi-experimental design
+quantitative,quasi-experiments
+quantitative,counterfactual analysis
+quantitative,cross-sectionally
+quantitative,growth model
+quantitative,growth modelling
+quantitative,cross-sectional study
+quantitative,longitudinal study
+quantitative,longitudinal
+quantitative,cross-sectional
+quantitative,cross sectional
+quantitative,panel study
+quantitative,time-series study
+quantitative,secondary data analysis
+quantitative,secondary analysis
+quantitative,social network analysis
+quantitative,regression analysis
+quantitative,linear regression
+quantitative,logistic regression
+quantitative,multivariate analysis
+quantitative,inferential statistics
+quantitative,descriptive statistics
+quantitative,analysis of variance
+quantitative,anova
+quantitative,manova
+quantitative,t-test
+quantitative,chi-square test
+quantitative,correlation analysis
+quantitative,econometric analysis
+quantitative,structural equation modeling
+quantitative,factor analysis
+quantitative,path analysis
+quantitative,hierarchical linear modeling
+quantitative,multilevel modeling
+quantitative,cluster analysis
+quantitative,discriminant analysis
+quantitative,survival analysis
+quantitative,nonparametric statistics
+quantitative,parametric statistics
+quantitative,bayesian analysis
+quantitative,bayesian statistics
+quantitative,monte carlo simulation
+quantitative,predictive modeling
+quantitative,forecasting
+quantitative,causal inference
+quantitative,meta-analysis
+quantitative,systematic review
+quantitative,data mining
+quantitative,machine learning
+quantitative,big data analytics
+quantitative,quantitative modeling
+quantitative,computational
+quantitative,simulation modeling
+quantitative,stochastic modeling
+quantitative,computational statistics
+quantitative,data visualization
+quantitative,sampling methods
+quantitative,item response theory
+quantitative,psychometric analysis
+quantitative,scale development
+quantitative,scaling analysis
+quantitative,community prevalence
+quantitative,time-series data
+quantitative,time-series
+quantitative,census
+quantitative,county-level data
+quantitative,nationally representative sample
+quantitative,cross-sectional study
+quantitative,cross-sectionally
+quantitative,counterfactual analysis
+quantitative,growth model
+quantitative,growth modelling
+quantitative,panel study
+quantitative,time-series study
+quantitative,principal component analysis
+quantitative,confirmatory factor analysis
+quantitative,exploratory factor analysis
+quantitative,latent class analysis
+quantitative,latent profile analysis
+quantitative,growth mixture modeling
+quantitative,latent growth curve analysis
+quantitative,propensity score matching
+quantitative,interrupted time series
+quantitative,difference-in-differences
+quantitative,regression discontinuity design
+quantitative,synthetic control method
+quantitative,instrumental variable analysis
+quantitative,correspondence analysis
+quantitative,correspondence analyses
+quantitative,iv analysis
+quantitative,mediation analysis
+quantitative,moderation analysis
+quantitative,competing risk analysis
+quantitative,event history analysis
+quantitative,proportional hazards model
+quantitative,cox regression
+quantitative,poisson regression
+quantitative,negative binomial regression
+quantitative,zero-inflated models
+quantitative,quantile regression
+quantitative,tobit regression
+quantitative,probit regression
+quantitative,ordered logit
+quantitative,multinomial logistic regression
+quantitative,generalized linear models
+quantitative,general estimating equations
+quantitative,autoregressive integrated moving average
+quantitative,arima
+quantitative,vector autoregression
+quantitative,multidimensional scaling
+quantitative,correspondence analysis
+quantitative,conjoint analysis
+quantitative,stratified sampling
+quantitative,simple random sampling
+quantitative,cluster sampling
+quantitative,systematic sampling
+quantitative,multistage sampling
+quantitative,disproportionate sampling
+quantitative,quota sampling
+quantitative,probability sampling
+quantitative,longitudinal panel design
+quantitative,repeated measures design
+quantitative,factorial design
+quantitative,split-plot design
+quantitative,crossover design
+quantitative,solomon four-group design
+quantitative,pretest-posttest design
+quantitative,trend analysis
+quantitative,cohort analysis
+quantitative,age-period-cohort analysis
+quantitative,apc analysis
+quantitative,multi-level regression
+quantitative,fixed effects model
+quantitative,random effects model
+quantitative,mixed effects model
+quantitative,bootstrapping
+quantitative,jackknife estimation
+quantitative,robust standard errors
+quantitative,multiple imputation
+quantitative,listwise deletion
+quantitative,pairwise deletion
+quantitative,sequential equation modeling
+quantitative,partial least squares
+quantitative,canonical correlation
+quantitative,hotelling's t-squared test
+quantitative,mann-whitney u test
+quantitative,kruskal-wallis test
+quantitative,friedman test
+quantitative,wilcoxon signed-rank test
+quantitative,spearman's rank correlation
+quantitative,kendall's tau
+quantitative,mcnemar's test
+quantitative,fisher's exact test
+quantitative,cramér's v
+quantitative,kappa statistic
+quantitative,intraclass correlation
+quantitative,reliability analysis
+quantitative,cronbach's alpha
+quantitative,composite reliability
+quantitative,average variance extracted
+quantitative,post-stratification weights
+quantitative,raking
+quantitative,computer-assisted telephone interviewing
+quantitative,computer-assisted personal interviewing
+quantitative,web-based surveys
+quantitative,online panels
+quantitative,mobile surveys
+quantitative,experience sampling method
+quantitative,ecological momentary assessment
+quantitative,dyadic data analysis
+quantitative,actor-partner interdependence model
+quantitative,social relations model
+quantitative,network autocorrelation model
+quantitative,exponential random graph models
+quantitative,stochastic actor-oriented models
+quantitative,blockmodeling techniques
+quantitative,centrality measures
+quantitative,network density analysis
+quantitative,small-world analysis
+quantitative,core-periphery analysis
+quantitative,homophily analysis
+quantitative,spatial regression
+quantitative,geographically weighted regression
+quantitative,spatial autocorrelation
+quantitative,moran's i
+quantitative,getis-ord g-statistic
+quantitative,geodemographic analysis
+quantitative,decomposition analysis
+quantitative,oaxaca-blinder decomposition
+quantitative,structural break tests
+quantitative,chow test
+quantitative,unit root tests
+quantitative,granger causality tests
+quantitative,johansen cointegration test
+quantitative,microsimulation
+quantitative,agent-based modeling
+quantitative,discrete choice modeling
+quantitative,multinomial logit
+quantitative,rank-ordered logit
+quantitative,item factor analysis
+quantitative,rasch modeling
+quantitative,differential item functioning
+quantitative,dif analysis
+quantitative,receiver operating characteristic
+quantitative,roc analysis
+quantitative,discrete-time hazard models
+quantitative,comparative quantitative analysis
+quantitative,fuzzy set analysis
+quantitative,market basket analysis
+quantitative,segmentation analysis
+quantitative,classification and regression trees
+quantitative,random forests
+quantitative,gradient boosting machines
+quantitative,neural networks
+quantitative,support vector machines
+quantitative,random coefficient models
+quantitative,growth curve models
+quantitative,time-to-event analysis
+quantitative,competing risks regression
+quantitative,finite mixture models
+quantitative,response surface methodology
+quantitative,multitrait-multimethod matrix
+quantitative,ecological inference
+quantitative,weighted least squares
+bourdieu_quantitative,correspondence analysis
+bourdieu_quantitative,correspondence analyses
+bourdieu_quantitative,correspondence analyses
+theoretical,conceptual analysis
+theoretical,theorized
+theoretical,theorize
+theoretical,social theory
+theoretical,theoretical basis
+theoretical,theoretical model
+theoretical,conceptual framework
+theoretical,theoretical leverage
+theoretical,concept analysis
+theoretical,philosophical inquiry
+theoretical,theory development
+theoretical,theory building
+theoretical,theorizing
+theoretical,theoretical analysis
+theoretical,theoretical framework
+theoretical,advances prior theory
+theoretical,structural functionalism
+theoretical,conflict theory
+theoretical,critical theory
+theoretical,symbolic interactionism
+theoretical,social constructionism
+theoretical,feminist theory
+theoretical,neo-marxism
+theoretical,postmodern theory
+theoretical,poststructuralism
+theoretical,structuration theory
+theoretical,world-systems theory
+theoretical,rational choice theory
+theoretical,social exchange theory
+theoretical,phenomenology
+theoretical,neo-weberian analysis
+theoretical,durkheimian analysis
+theoretical,social capital theory
+theoretical,intersectionality
+theoretical,network theory
+theoretical,critical realism
+theoretical,interpretive sociology
+theoretical,structural theory
+theoretical,theoretical constructs
+theoretical,theoretical construct
+theoretical,marxist theory
+theoretical,liberal theory
+theoretical,functionalist
+theoretical,rational action theory
+theoretical,straight-line theory
+theoretical,practice theory
+theoretical,examine the relations between
+theoretical,theories of
+theoretical,critical appraisal
+theoretical,epistemological consequences
+theoretical,theory of
+theoretical,positivist
+theoretical,structuralist
+theoretical,post-colonial theory
+theoretical,queer theory
+theoretical,ecological systems theory
+theoretical,dramaturgical theory
+theoretical,labeling theory
+theoretical,deviance theory
+theoretical,control theory
+theoretical,strain theory
+theoretical,differential association theory
+theoretical,anomie theory
+theoretical,life course theory
+theoretical,modernization theory
+theoretical,dependency theory
+theoretical,institutional theory
+theoretical,neo-institutional theory
+theoretical,organizational theory
+theoretical,systems theory
+theoretical,autopoiesis theory
+theoretical,complexity theory
+theoretical,chaos theory
+theoretical,actor-network theory
+theoretical,social constructivism
+theoretical,constructivist theory
+theoretical,social identity theory
+theoretical,social learning theory
+theoretical,cognitive dissonance theory
+theoretical,expectation states theory
+theoretical,status construction theory
+theoretical,social dominance theory
+theoretical,race formation theory
+theoretical,racial formation theory
+theoretical,critical race theory
+theoretical,social stratification theory
+theoretical,social movement theory
+theoretical,resource mobilization theory
+theoretical,political process theory
+theoretical,framing theory
+theoretical,new social movement theory
+theoretical,collective behavior theory
+theoretical,collective action theory
+theoretical,risk society theory
+theoretical,liquid modernity theory
+theoretical,globalization theory
+theoretical,transnationalism theory
+theoretical,cosmopolitanism theory
+theoretical,civilizing process theory
+theoretical,figuration theory
+theoretical,cultural trauma theory
+theoretical,memory studies theory
+theoretical,standpoint theory
+theoretical,social phenomenology
+theoretical,social interactionism
+theoretical,ethnomethodological theory
+theoretical,conversation analysis theory
+theoretical,social performance theory
+theoretical,structuralist theory
+theoretical,post-structuralist theory
+theoretical,deconstructionist theory
+theoretical,governmentality theory
+theoretical,biopower theory
+theoretical,disciplinary power theory
+theoretical,hegemony theory
+theoretical,cultural hegemony theory
+theoretical,subaltern theory
+theoretical,public sphere theory
+theoretical,communicative action theory
+theoretical,deliberative democracy theory
+theoretical,critical discourse theory
+theoretical,social reproduction theory
+theoretical,capital accumulation theory
+theoretical,alienation theory
+theoretical,commodity fetishism theory
+theoretical,false consciousness theory
+theoretical,culture industry theory
+theoretical,mass society theory
+theoretical,media ecology theory
+theoretical,digital society theory
+theoretical,network society theory
+theoretical,information society theory
+theoretical,secularization theory
+theoretical,religious market theory
+theoretical,rational choice theory of religion
+theoretical,neofunctionalism
+theoretical,evolutionary theory
+theoretical,sociobiology
+theoretical,biosocial theory
+theoretical,affect theory
+theoretical,emotional labor theory
+theoretical,medicalization theory
+theoretical,social determinants theory
+theoretical,disability theory
+theoretical,crip theory
+theoretical,political economy theory
+theoretical,game theory in sociology
+theoretical,economic sociology theory
+theoretical,embeddedness theory
+theoretical,moral economy theory
+theoretical,cultural sociology theory
+theoretical,strong program theory
+theoretical,cultural toolkit theory
+theoretical,discursive formation theory
+theoretical,performativity theory
+theoretical,metatheory
+theoretical,middle-range theory
+theoretical,grand theory
+theoretical,formal theory
+theoretical,substantive theory
+theoretical,theoretical saturation
+theoretical,theoretical sampling
+theoretical,theoretical sensitivity
+theoretical,theoretical triangulation
+theoretical,theoretical generalization
+theoretical,deductive theory
+theoretical,inductive theory
+theoretical,abductive theory
+mixed_methods,convergent parallel design
+mixed_methods,explanatory sequential design
+mixed_methods,exploratory sequential design
+mixed_methods,embedded design
+mixed_methods,triangulation
+mixed_methods,integrated methods
+mixed_methods,multimethod
+mixed_methods,mixed methodology
+mixed_methods,embedded case study
+mixed_methods,mixed methods
+mixed_methods,concurrent triangulation design
+mixed_methods,concurrent embedded design
+mixed_methods,transformative mixed methods
+mixed_methods,iterative mixed methods
+mixed_methods,multilevel mixed methods
+mixed_methods,multistage mixed methods
+mixed_methods,complementary mixed methods
+mixed_methods,integration design
+mixed_methods,data transformation model
+mixed_methods,merging quantitative and qualitative data
+mixed_methods,mixed methods synthesis
+mixed_methods,concurrent nested design
+mixed_methods,sequential nested design
+mixed_methods,sequential explanatory design
+mixed_methods,sequential exploratory design
+mixed_methods,multiphase design
+mixed_methods,fully integrated mixed design
+mixed_methods,partially integrated mixed design
+mixed_methods,mixed model research
+mixed_methods,mixed research methods
+mixed_methods,qual-quant integration
+mixed_methods,quant-qual integration
+mixed_methods,method integration
+mixed_methods,methodological triangulation
+mixed_methods,data triangulation
+mixed_methods,investigator triangulation
+mixed_methods,theoretical triangulation
+mixed_methods,mixed method case study
+mixed_methods,complementarity design
+mixed_methods,expansion design
+mixed_methods,development design
+mixed_methods,initiation design
+mixed_methods,sandwich model
+mixed_methods,mixed methods evaluation
+mixed_methods,mixed methods systematic review
+mixed_methods,mixed methods meta-analysis
+mixed_methods,mixed methods meta-synthesis
+mixed_methods,integrative mixed methods
+mixed_methods,hybrid methodology
+mixed_methods,blended methodology
+mixed_methods,crossover mixed analyses
+mixed_methods,mixed methods sampling
+mixed_methods,nested sampling design
+mixed_methods,parallel mixed sampling
+mixed_methods,sequential mixed sampling
+mixed_methods,conversion mixed methods
+mixed_methods,parallel-databases variant
+mixed_methods,data-transformation variant
+mixed_methods,follow-up explanations variant
+mixed_methods,participant-selection variant
+mixed_methods,instrument-development variant
+mixed_methods,mixed methods validity
+mixed_methods,multiple methods research
+mixed_methods,methodological pluralism
+mixed_methods,multimethodology
+mixed_methods,mixing qualitative and quantitative
+mixed_methods,combined methods approach
+mixed_methods,integrated research design
+mixed_methods,methodological integration
+mixed_methods,between-methods triangulation
+mixed_methods,within-methods triangulation
+mixed_methods,cross-paradigm triangulation
+mixed_methods,multi-strand design
+mixed_methods,monostrand design
+mixed_methods,multilevel mixed research
+mixed_methods,qual-quant mixing
+mixed_methods,mixing paradigms
+mixed_methods,mixed methods research design
+mixed_methods,integrative analysis
+mixed_methods,integrated findings
+mixed_methods,metamethod approach
+mixed_methods,qualitatively-driven mixed methods
+mixed_methods,quantitatively-driven mixed methods
+mixed_methods,equally-weighted mixed methods
+mixed_methods,mixed methods matrix
+mixed_methods,mixed methods framework
+mixed_methods,mixed methods community-based research
+mixed_methods,mixed methods participatory research
+mixed_methods,mixed methods action research
+mixed_methods,dialectical pluralism
+mixed_methods,pragmatic mixed methods
+mixed_methods,crystallization method
+mixed_methods,interfacing qualitative and quantitative
+mixed_methods,bridging qualitative and quantitative
+mixed_methods,data convergence
+mixed_methods,methodological convergence
+mixed_methods,analytic convergence
+mixed_methods,parallel-convergent design
+mixed_methods,sequential-convergent design
+mixed_methods,dynamic systems mixed methods
+mixed_methods,intersecting mixed methods
+mixed_methods,multiphase optimization strategy
+mixed_methods,sequential multiple assignment
+literature_reviews,systematic review
+literature_reviews,scoping review
+literature_reviews,integrative review
+literature_reviews,review article
+literature_reviews,narrative review
+literature_reviews,meta-synthesis
+literature_reviews,critical review
+literature_reviews,state-of-the-art review
+literature_reviews,rapid review
+literature_reviews,umbrella review
+literature_reviews,mapping review
+literature_reviews,mixed-methods review
+literature_reviews,realist review
+literature_reviews,qualitative evidence synthesis
+literature_reviews,meta-ethnography
+literature_reviews,meta-narrative review
+literature_reviews,interpretive review
+literature_reviews,conceptual review
+literature_reviews,theoretical review
+literature_reviews,thematic review
+literature_reviews,comprehensive review
+literature_reviews,systematic mapping
+literature_reviews,evidence map
+literature_reviews,evidence synthesis
+literature_reviews,structured literature review
+literature_reviews,historical review
+literature_reviews,chronological review
+literature_reviews,methodological review
+literature_reviews,developmental review
+literature_reviews,critical interpretive synthesis
+literature_reviews,framework synthesis
+literature_reviews,realist synthesis
+literature_reviews,scoping study
+literature_reviews,literature scan
+literature_reviews,narrative synthesis
+literature_reviews,research synthesis
+literature_reviews,qualitative systematic review
+literature_reviews,focused review
+literature_reviews,selective review
+literature_reviews,targeted review
+literature_reviews,annotated bibliography
+literature_reviews,bibliometric review
+literature_reviews,citation analysis
+literature_reviews,co-citation analysis
+literature_reviews,network analysis of literature
+literature_reviews,scientometric review
+literature_reviews,content analysis review
+literature_reviews,longitudinal review
+literature_reviews,cross-disciplinary review
+literature_reviews,interdisciplinary review
+literature_reviews,transdisciplinary review
+literature_reviews,comprehensive literature search
+literature_reviews,snowball review
+literature_reviews,pearl growing review
+literature_reviews,citation pearl growing
+literature_reviews,exploratory review
+literature_reviews,configurative review
+literature_reviews,aggregative review
+literature_reviews,systematized review
+literature_reviews,best-evidence synthesis
+literature_reviews,critical appraisal review
+literature_reviews,expertise-based review
+literature_reviews,practice-based review
+literature_reviews,mixed studies review
+literature_reviews,concept analysis
+literature_reviews,textual narrative synthesis
+literature_reviews,meta-study
+literature_reviews,meta-method
+literature_reviews,meta-theory
+literature_reviews,meta-data-analysis
+literature_reviews,meta-interpretation
+literature_reviews,Bayesian meta-analysis
+literature_reviews,critical review of literature
+literature_reviews,theoretical literature review
+literature_reviews,argumentative review
+literature_reviews,traditional review
+literature_reviews,iterative review
